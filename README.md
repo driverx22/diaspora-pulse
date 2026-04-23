@@ -11,11 +11,19 @@ diaspora in the United States. Topic-agnostic by design.
 
 ## Install
 
-This is a Claude Code / Cowork skill. Drop the folder anywhere in your skills
-tree, or install as a plugin:
+This is a Claude Code / Cowork skill. Install it as a plugin straight from
+GitHub:
 
 ```
-/plugin marketplace add C:\Users\DanielGyimah\CoWk\diaspora-pulse
+/plugin marketplace add driverx22/diaspora-pulse
+/plugin install diaspora-pulse@driverx22
+```
+
+Or, if you've cloned the repo locally and want to point at the folder
+directly (useful for development):
+
+```
+/plugin marketplace add /path/to/diaspora-pulse
 /plugin install diaspora-pulse@diaspora-pulse
 ```
 
