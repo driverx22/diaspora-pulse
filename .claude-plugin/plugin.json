@@ -1,0 +1,20 @@
+{
+  "name": "diaspora-pulse",
+  "version": "0.1.0",
+  "description": "Research any topic through Ghanaian-diaspora sources in the United States — diaspora media, Reddit/forum communities, diaspora YouTube creators, X handles, Ghanaian association and church-network sites, podcasts, and remittance/business content hubs. Topic-agnostic; renders a markdown brief and a single-file HTML dashboard.",
+  "author": {
+    "name": "Daniel Gyimah",
+    "email": "dgyimahcpa@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ghana",
+    "diaspora",
+    "usa",
+    "ghanaian-american",
+    "remittance",
+    "community",
+    "research"
+  ],
+  "hooks": {}
+}

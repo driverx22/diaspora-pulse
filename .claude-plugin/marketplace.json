@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "diaspora-pulse",
+  "description": "Research any topic through Ghanaian-diaspora sources in the United States — diaspora media, Reddit/forum communities, YouTube creators, X handles, Ghanaian association and church-network sites, podcasts, and remittance/business content hubs.",
+  "owner": {
+    "name": "Daniel Gyimah"
+  },
+  "plugins": [
+    {
+      "name": "diaspora-pulse",
+      "description": "Research any topic through Ghanaian-diaspora sources in the United States — diaspora media, Reddit/forum communities, YouTube creators, X handles, Ghanaian association and church-network sites, podcasts, and remittance/business content hubs.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel Gyimah"
+      },
+      "source": "./",
+      "category": "research"
+    }
+  ]
+}
